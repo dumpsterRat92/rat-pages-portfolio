@@ -1,94 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
-    <link rel="stylesheet" href="assets/style.css">
+    <title>The RAT Pages - Portfolio</title>
+    <link rel="stylesheet" href="assets/styles.css">
 </head>
+
 <body>
+    <!-- Header Section -->
+    <header>
+        <!-- Logo -->
+        <img id="logo" src="assets/Untitled_Artwork.png" alt="The RAT Pages Logo">
+        
+        <!-- Navigation Menu -->
+        <nav>
+            <ul style="list-style: none;">
+                <!-- Navigation Links -->
+                <li><a href="#about-me">About Me</a></li>
+                <li><a href="#portfolio">My Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
 
-<!-- Header -->
-<header>
-    <h1 class="logo">the RAT pages</h1>
-    <nav>
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#blog">Blog</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-    <aside class="social-icons">
-        <!-- Add social media icons here -->
-    </aside>
-</header>
+    <!-- Main Content Section -->
+    <main>
+        <!-- Hero Section with Fixed Background -->
+        <section id="hero" class="fixed-background">
+            <!-- Scrolling Text on Top of Background -->
+            <div class="scrolling-text">
+                <h1>Welcome to The RAT Pages</h1>
+                <p>Your go-to destination for innovative web solutions.</p>
+            </div>
+        </section>
 
-<!-- Main content -->
-<main>
-
-    <!-- Home Section -->
-    <section id="home">
-        <div class="hero">
-            <h2>Welcome to My Portfolio</h2>
-            <p>Web Developer</p>
-            <a href="#portfolio" class="cta-button">View My Work</a>
-        </div>
-    </section>
-
-    <!-- About Me Section -->
-    <section id="about">
-        <article class="profile">
-            <img src="profile-picture.jpg" alt="Your Name">
+        <!-- About Me Section -->
+        <section id="about-me">
             <h2>About Me</h2>
-            <p>Your brief personal statement goes here.</p>
-            <p>Detailed background information about yourself.</p>
-        </article>
-    </section>
+            <!-- Image and Text -->
+            <div class="about-me-content">
+                <img src="assets/53a13e2355ea822a0f1662df90424591.jpg" alt="Profile Image">
+                <div class="about-me-text">
+                    <p>
+                        Welcome to The RAT Pages! I am a passionate web developer with expertise in front-end and back-end
+                        technologies. I love turning ideas into beautiful, interactive, and user-friendly websites.
+                    </p>
+                </div>
+            </div>
+            
 
-    <!-- Portfolio Section -->
-    <section id="portfolio">
-        <h2>My Portfolio</h2>
-        <div class="portfolio-items">
-            <!-- Include your portfolio items here -->
-        </div>
-    </section>
 
-    <!-- Blog Section -->
-    <section id="blog">
-        <h2>Blog</h2>
-        <div class="blog-posts">
-            <!-- Include your blog posts here -->
-        </div>
-    </section>
+        <!-- Portfolio Section -->
+        <section id="portfolio">
+            <h2>My Portfolio</h2>
+            <!-- Project 1 -->
+            <article class="project">
+                <h3>Project 1</h3>
+                <p>Description of Project 1.</p>
+            </article>
+            <!-- Project 2 -->
+            <article class="project">
+                <h3>Project 2</h3>
+                <p>Description of Project 2.</p>
+            </article>
+            <!-- Add more projects as needed -->
+        </section>
 
-    <!-- Contact Section -->
-    <section id="contact">
-        <article class="contact-form">
-            <!-- Include your contact form here -->
+        <!-- Contact Section -->
+        <section id="contact">
             <h2>Contact Me</h2>
-        </article>
-    </section>
+            <form action="#" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
 
-</main>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
 
-<!-- Footer -->
-<footer>
-    <nav class="footer-links">
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#blog">Blog</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-    <aside class="social-icons">
-        <!-- Add social media icons here -->
-    </aside>
-    <p>&copy; 2023 Your Name. All rights reserved.</p>
-</footer>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+
+                <button type="submit">Send</button>
+            </form>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 The RAT Pages</p>
+    </footer>
 
 </body>
+
 </html>
