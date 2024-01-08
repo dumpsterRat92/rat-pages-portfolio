@@ -12,7 +12,6 @@ Welcome to "The RAT Pages" - my professional portfolio webpage! This repository 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About "The RAT Pages"
@@ -43,7 +42,6 @@ To set up a local copy of "The RAT Pages," follow these simple steps:
 
 - **Home Page**: A warm introduction and a snapshot of who I am and what I do.
 - **Projects Gallery**: A comprehensive display of my works, detailing the technologies used, my role in each, and links to live demos or code repositories.
-- **Resume**: An up-to-date downloadable PDF of my resume, highlighting my professional journey.
 - **Contact Information**: How to connect with me, including links to LinkedIn, GitHub, and other platforms, alongside a direct contact form.
 
 ## Usage
@@ -65,10 +63,6 @@ To set up a local copy of "The RAT Pages," follow these simple steps:
 - JavaScript
 - [Other technologies or frameworks used]
 
-## Contributing
-
-Contributions to "The RAT Pages" are welcome. Please read through the [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit proposals and improvements.
-
 ## License
 
-"The RAT Pages" is made available under the [Your License Name]. See the [LICENSE.md](LICENSE.md) file for more details.
+"The RAT Pages" is made available under the [Leah]. See the [LICENSE.md](LICENSE.md) file for more details.
