@@ -16,7 +16,7 @@ Welcome to "The RAT Pages" - my professional portfolio webpage! This repository 
 
 ## About "The RAT Pages"
 
-"The RAT Pages" is more than just a portfolio; it's a curated journey through my professional life. The name symbolizes [explain the acronym or the meaning behind 'The RAT']. Here, you'll find everything from in-depth looks at my most impactful projects to insights into the skills and experiences that define my career.
+"The RAT Pages" is more than just a portfolio; it's a curated journey through my professional life.  Here, you'll find everything from in-depth looks at my most impactful projects to insights into the skills and experiences that define my career.
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ To set up a local copy of "The RAT Pages," follow these simple steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/the-rat-pages.git
+    git clone [https://github.com/your-username/the-rat-pages.git](https://github.com/dumpsterRat92/rat-pages.git)
     ```
 
 2. **Navigate to the project directory**:
@@ -58,11 +58,10 @@ To set up a local copy of "The RAT Pages," follow these simple steps:
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- [Other technologies or frameworks used]
 
 ## License
 
-"The RAT Pages" is made available under the [Leah]. See the [LICENSE.md](LICENSE.md) file for more details.
+"The RAT Pages" is made available under the [Leah]. 
