@@ -47,7 +47,7 @@ To set up a local copy of "The RAT Pages," follow these simple steps:
 
 ## Screenshots
 
-![Screenshot](assets/images/screencapture-dumpsterrat92-github-io-banana-sloth-2023-12-21-16_12_04.png)
+![Screenshot](assets/screencapture-file-C-Users-ryour-ratpages-index-html-2024-01-08-14_05_36.png)
 
 ## Usage
 
