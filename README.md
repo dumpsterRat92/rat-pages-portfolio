@@ -9,6 +9,7 @@ Welcome to "The RAT Pages" - my professional portfolio webpage! This repository 
 - [About "The RAT Pages"](#about-the-rat-pages)
 - [Getting Started](#getting-started)
 - [Features](#features)
+- [Screenshot](#screenshot)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
@@ -43,6 +44,10 @@ To set up a local copy of "The RAT Pages," follow these simple steps:
 - **Home Page**: A warm introduction and a snapshot of who I am and what I do.
 - **Projects Gallery**: A comprehensive display of my works, detailing the technologies used, my role in each, and links to live demos or code repositories.
 - **Contact Information**: How to connect with me, including links to LinkedIn, GitHub, and other platforms, alongside a direct contact form.
+
+## Screenshots
+
+![Screenshot](assets/screencapture-file-C-Users-ryour-ratpages-index-html-2024-01-08-14_05_36.png)
 
 ## Usage
 
