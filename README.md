@@ -7,7 +7,7 @@ Welcome to "The RAT Pages" - my professional portfolio webpage! This repository 
 ## Table of Contents
 
 - [About "The RAT Pages"](#about-the-rat-pages)
-- [Getting Started](#getting-started)
+- [Links](#Links)
 - [Features](#features)
 - [Screenshot](#screenshot)
 - [Usage](#usage)
@@ -19,26 +19,27 @@ Welcome to "The RAT Pages" - my professional portfolio webpage! This repository 
 
 "The RAT Pages" is more than just a portfolio; it's a curated journey through my professional life.  Here, you'll find everything from in-depth looks at my most impactful projects to insights into the skills and experiences that define my career.
 
-## Getting Started
+## Links
 
 To set up a local copy of "The RAT Pages," follow these simple steps:
 
 1. **Clone the repository**:
 
     ```bash
-    git clone [https://github.com/your-username/the-rat-pages.git](https://github.com/dumpsterRat92/rat-pages.git)
+    git clone [[https://github.com/your-username/the-rat-pages.git](https://github.com/dumpsterRat92/rat-pages.git)](https://github.com/dumpsterRat92/rat-pages-portfolio.git)
     ```
 
 2. **Navigate to the project directory**:
 
     ```bash
-    cd the-rat-pages
+    cd the-rat-pages-portfolio
     ```
 
 3. **View the website**:
 
     Open the `index.html` file in your web browser to view the portfolio.
 
+Here's a link to the gitHub: https://github.com/dumpsterRat92/rat-pages-portfolio
 ## Features
 
 - **Home Page**: A warm introduction and a snapshot of who I am and what I do.
@@ -51,7 +52,8 @@ To set up a local copy of "The RAT Pages," follow these simple steps:
 
 ## Usage
 
-"The RAT Pages" is personalized for my use, but feel free to draw inspiration or use the structure as a starting point for your own portfolio. Customize it to suit your personal brand and professional story.
+"The RAT Pages" is personalized for my use, but feel free to draw inspiration or use the structure as a starting point for your own portfolio. Customize it to suit your personal brand and professional story. 
+
 
 ## Project Structure
 
