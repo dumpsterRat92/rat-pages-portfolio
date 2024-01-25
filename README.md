@@ -26,7 +26,7 @@ To set up a local copy of "The RAT Pages," follow these simple steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone [[https://github.com/your-username/the-rat-pages.git](https://github.com/dumpsterRat92/rat-pages.git)](https://github.com/dumpsterRat92/rat-pages-portfolio.git)
+    git clone [[https://github.com/your-username/the-rat-pages-portfolio.git](https://github.com/dumpsterRat92/rat-pages-portfolio.git)](https://github.com/dumpsterRat92/rat-pages-portfolio.git)
     ```
 
 2. **Navigate to the project directory**:
@@ -48,7 +48,7 @@ Here's a link to the gitHub: https://github.com/dumpsterRat92/rat-pages-portfoli
 
 ## Screenshots
 
-![Screenshot](assets/screencapture-file-C-Users-ryour-ratpages-index-html-2024-01-08-14_05_36.png)
+![Screenshot](assets/images/screencapture-file-C-Users-ryour-ratpages-index-html-2024-01-25-00_08_42.png)
 
 ## Usage
 
